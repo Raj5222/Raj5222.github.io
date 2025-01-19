@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b44e269.css",
+    "main.js": "/static/js/main.23da2a2a.js",
+    "static/media/Raj-logo.svg": "/static/media/Raj-logo.87b7a25b2311dd5951db39f47ef5160e.svg",
+    "static/media/Raj Image.jpg": "/static/media/Raj Image.6c413c3c0652cb16acc3.jpg",
+    "index.html": "/index.html",
+    "main.0b44e269.css.map": "/static/css/main.0b44e269.css.map",
+    "main.23da2a2a.js.map": "/static/js/main.23da2a2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b44e269.css",
+    "static/js/main.23da2a2a.js"
+  ]
+}
